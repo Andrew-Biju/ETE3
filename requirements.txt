@@ -1,3 +1,12 @@
 matplotlib
 pandas
 numpy
+seaborn
+wordcloud
+PIL
+random
+datetime
+calendar
+collections
+io
+requests
